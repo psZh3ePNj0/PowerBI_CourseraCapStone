@@ -1,0 +1,41 @@
+----------------------
+--YearlyProfitMargin--
+----------------------
+
+		--Using 3 Measures
+
+TotalGrossRevenue=SUM('Sales_in_USD'[Gross Revenue])
+TotalNetRevenue=SUM('Sales_in_USD'[Net Revenue])
+YearlyProfitMargin =  DIVIDE([TotalGrossRevenue],[TotalNetRevenue])
+
+
+		--Using Just 1 Measure --
+YearlyProfitMargin = DIVIDE( SUM('Sales_in_USD'[Gross Revenue]), SUM('Sales_in_USD'[Net Revenue]) )
+
+
+
+----------------------
+--QuarterlyProfit--
+----------------------
+
+QuarterlyProfit = CALCULATE ([YearlyProfitMargin],DATESQTD('CalendarTable'[Date]))
+
+
+
+----------------------
+--YTDProfit--
+----------------------
+
+YTDProfit = TOTALYTD([YearlyProfitMargin],'CalendarTable'[Date])
+
+
+
+
+----------------------
+--Median--
+----------------------
+
+MedianSales = MEDIAN('Sales_in_USD'[Gross Revenue])
+
+
+
