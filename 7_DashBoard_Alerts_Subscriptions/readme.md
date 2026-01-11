@@ -13,4 +13,4 @@ Impact of analytics is meaningful by $$\color{blue}curating \space data \space a
 
 <br>
 
-Please see both [Exc-Exec-Dashboard](https://github.com/psZh3ePNj0/DataAnalysis/blob/main/PowerBI/Coursera_Capstone/7_DashBoard_Alerts_Subscriptions/Exc-Exec-Dashboard.pdf) and [Exc-Alerts-and-Subscriptions](https://github.com/psZh3ePNj0/DataAnalysis/blob/main/PowerBI/Coursera_Capstone/7_DashBoard_Alerts_Subscriptions/Exc-Alerts-and-Subscriptions%20.pdf) PDFs for pertinent additional objective details. 
+Please see both [Exc-Exec-Dashboard](https://github.com/psZh3ePNj0/PowerBI_CourseraCapStone/blob/main/7_DashBoard_Alerts_Subscriptions/Exc-Exec-Dashboard.pdf) and [Exc-Alerts-and-Subscriptions](https://github.com/psZh3ePNj0/PowerBI_CourseraCapStone/blob/main/7_DashBoard_Alerts_Subscriptions/Exc-Alerts-and-Subscriptions%20.pdf) PDFs for pertinent additional objective details. 
