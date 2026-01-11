@@ -13,4 +13,4 @@ Use Power BI to work with gobal sales data to prepare a report by:
 
 <br>
 
-Please see [Exc-Design-and-Develop-DataModel](https://github.com/psZh3ePNj0/DataAnalysis/blob/main/PowerBI/Coursera_Capstone/3_Design-Develop-DataModel/Exc-Design-and-Develop-DataModel.pdf) PDF for the objective details.
+Please see [Exc-Design-and-Develop-DataModel](https://github.com/psZh3ePNj0/PowerBI_CourseraCapStone/blob/main/3_Design-Develop-DataModel/Exc-Design-and-Develop-DataModel.pdf) PDF for the objective details.
